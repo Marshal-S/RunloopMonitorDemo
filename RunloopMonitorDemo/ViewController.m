@@ -31,7 +31,7 @@
 }
 
 - (void)onTapTableView {
-    [NSThread sleepForTimeInterval:2];
+    [NSThread sleepForTimeInterval:3];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
